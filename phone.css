@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+
+.logo ,#hide {
+    display: none;
+}
+#login{
+    position: fixed;
+    display: none;
+}
+label{
+    display: initial;
+}
+#check:checked ~ #login{
+    display: inline;
+}
