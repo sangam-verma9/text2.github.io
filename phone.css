@@ -2,7 +2,7 @@ body{
     background-color: red;
 }
 
-.logo ,#hide {
+#hide {
     display: none;
 }
 #login{
